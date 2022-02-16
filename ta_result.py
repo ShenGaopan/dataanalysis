@@ -1,7 +1,7 @@
 import xlrd
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
-
+# 这是个
 rulename = ['SPT', 'LPT', 'EDD', 'MWKR', 'FDD_MWKR', 'MOPNR', 'FOPNR', 'RANDOM', 'DRL20×20','DRL30×20']
 scatter_class = ['.', ',', 'o', 'v', '^', '<', '>', '1', '2', '3', '4','8']
 
